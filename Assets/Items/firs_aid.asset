@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d13caad2f1218cc43811895bc47b00ae, type: 3}
+  m_Name: firs_aid
+  m_EditorClassIdentifier: 
+  tile: {fileID: 0}
+  image: {fileID: 21300000, guid: 55859cb282a39a94b85c0a960825ba59, type: 3}
+  type: 3
+  actionType: 0
+  isStackable: 1
+  itemPrefab: {fileID: 7090499938993723541, guid: 9fb18a4bbeefb5947abb4a4affb86f46, type: 3}
+  itemCamPrefab: {fileID: 7090499938993723541, guid: 228cf4998400d0f438cf82fd746a8cc9, type: 3}
+  bullets: 1
