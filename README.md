@@ -1,6 +1,6 @@
 # DemoGame
 ## Gameplay
-[![Watch the video](http://img.youtube.com/vi/ivyqf5zdigs/0.jpg)](https://www.youtube.com/watch?v=ivyqf5zdigs)
+[![Watch the video](http://img.youtube.com/vi/ivyqf5zdigs/0.jpg)](https://youtu.be/J-FP1Vwp6-M)
 
 ## Hierarchy
 Структура сцены проекта состоит из 5 частей:
