@@ -2,6 +2,17 @@
 Скачать игру: https://disk.yandex.ru/d/R2aPjEsQ_X3U1Q
 ## Видео геймплея
 [![Watch the video](http://img.youtube.com/vi/J-FP1Vwp6-M/0.jpg)](https://youtu.be/J-FP1Vwp6-M)
+## Скриншоты из игры
+![image](https://github.com/user-attachments/assets/16997dd4-2390-4cba-a4b5-4c0168b9ac2a)
+![image](https://github.com/user-attachments/assets/b792a088-e313-4482-ae98-2a067bac1458)
+![image](https://github.com/user-attachments/assets/d7773414-3f8c-4ee3-a2f5-b1d8201905e3)
+![image](https://github.com/user-attachments/assets/a57c6728-3cb6-4383-9703-1221b3e4850e)
+![image](https://github.com/user-attachments/assets/2a2ea85b-8af9-4f58-8a1c-e261db652e1c)
+
+
+
+
+
 
 ## Управление
 `W` `A` `S` `D` - передвижение<br>
@@ -24,7 +35,6 @@
 * Units
   
 ![image](https://github.com/user-attachments/assets/c415191d-7112-4b83-a770-b62d50008f85)
-
 
 ## Локация 
 ![image](https://github.com/user-attachments/assets/228053ed-cac7-409f-87ac-d0afe1ddb052)
