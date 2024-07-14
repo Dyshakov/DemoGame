@@ -37,7 +37,7 @@
 ![image](https://github.com/user-attachments/assets/5a8bdd37-952c-4536-9ddb-193338e223a8)
 * hitmarker - маркер попадания по врагу<br>
 ![image](https://github.com/user-attachments/assets/9cd7684c-0fc8-4b2c-9878-6da385663460)
-Общая вид структуры интерфейса<br>
+<br>Общий вид структуры интерфейса<br>
 ![image](https://github.com/user-attachments/assets/704de67a-1bc4-42d3-b5f6-6d2b9cd3104d)
 
 ## Player
