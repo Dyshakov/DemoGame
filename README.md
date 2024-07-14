@@ -22,23 +22,23 @@
 ## UI
 Интерфейс состоит из:
 * MainInventoryGroup - панель инвентаря игрока
-  ![image](https://github.com/Dyshakov/DemoGame/assets/91851290/41c3b64b-e954-47e1-9f19-0175fd3e14a5)
+  ![image](https://github.com/user-attachments/assets/7353f8bc-a24e-48f9-a900-16cb39a6e5b6)
 * Toolbar - панель быстрого доступа предметов<br>
-  ![image](https://github.com/Dyshakov/DemoGame/assets/91851290/68c45818-24b9-4e66-9108-37ecbc29a3f5)
+  ![image](https://github.com/user-attachments/assets/d020289d-3c7d-4b86-be58-451cd9da4ce2)
 * actionText - подсказка действия (открыть дверь, залутать игрока)<br>
-![image](https://github.com/Dyshakov/DemoGame/assets/91851290/3812bd96-4a70-4515-9a1c-cdb9e072b8be)
+![image](https://github.com/user-attachments/assets/a8c6e90f-4101-433a-be40-1625cadf27d0)
 * LootInventory - инвентарь лутаемого бота<br>
-![image](https://github.com/Dyshakov/DemoGame/assets/91851290/4a4a713a-f438-4d5e-8823-12e2bb9f1b24)
+![image](https://github.com/user-attachments/assets/e489807d-53e2-402f-b60b-a1c2b6e9f737)
 * Stats - Статы персонажа (количество здоровья)<br>
-  ![image](https://github.com/Dyshakov/DemoGame/assets/91851290/80eb15bd-ed59-45a7-9377-e0ca631b80f5)
+![image](https://github.com/user-attachments/assets/a13d7014-fc8f-419f-a43e-3bd7e3adeda4)
 * Hitoverlay - покраснение экрана при получении урона<br>
-![image](https://github.com/Dyshakov/DemoGame/assets/91851290/997aa188-0bc3-465c-ab64-5bd710ed3072)
+![image](https://github.com/user-attachments/assets/83de3dc6-031b-4f0f-a9ef-205d15aefcde)
 * crosshair - перекрестие по центру экрана<br>
-![image](https://github.com/Dyshakov/DemoGame/assets/91851290/36c87526-1060-4839-acf5-d92add7676c4)
+![image](https://github.com/user-attachments/assets/5a8bdd37-952c-4536-9ddb-193338e223a8)
 * hitmarker - маркер попадания по врагу<br>
-![image](https://github.com/Dyshakov/DemoGame/assets/91851290/87da270d-35e5-49fd-88cc-f171bfa3b35d)
+![image](https://github.com/user-attachments/assets/9cd7684c-0fc8-4b2c-9878-6da385663460)
 Общая вид структуры интерфейса<br>
-![image](https://github.com/Dyshakov/DemoGame/assets/91851290/96024c43-9161-4296-8116-b090ae92e5d0)
+![image](https://github.com/user-attachments/assets/704de67a-1bc4-42d3-b5f6-6d2b9cd3104d)
 
 ## Player
 Компоненты игрока:<br>
