@@ -42,7 +42,7 @@
 
 ## Player
 Компоненты игрока:<br>
-![image](https://github.com/Dyshakov/DemoGame/assets/91851290/4947e7dd-41ec-4fc7-acd0-97bff35c0ea2)
+![image](https://github.com/user-attachments/assets/b28d5d4d-15c5-4156-a9c7-226533d79eef)
 
 * MOVE - скрипт который отвечает за движение игрока
 * Player Health - скрипт который отвечает за здоровье игрока
@@ -51,7 +51,7 @@
 
 ## Оружие
 Компоненты оружия: <br>
-![image](https://github.com/Dyshakov/DemoGame/assets/91851290/a2b18298-b331-41ce-bf83-4054bc4be935)
+![image](https://github.com/user-attachments/assets/ce8a194a-1e3e-4f56-a2c6-c3000d9fe373)
 
 * Weapon - основной скрипт оружия который отвечает за стрельбу и перезарядку
 * Weapon Animations - отвечает за анимацию оружия
@@ -60,15 +60,15 @@
 ## Функционал
 
 ### Перезарядка
-![reload](https://github.com/Dyshakov/DemoGame/assets/91851290/fb3f1fba-46e6-4094-b9d0-3df2c00929fd)
+
 
 ### Аптечка
 
-![first aid](https://github.com/Dyshakov/DemoGame/assets/91851290/08ecb245-4708-4eec-b6b1-0b3bcd9d906b)
+
 
 ### Стрельба
 
-![shooting](https://github.com/Dyshakov/DemoGame/assets/91851290/ab09b281-429d-44be-bbbe-f643d5912833)
+
 
 
 
