@@ -10,11 +10,14 @@
 * Canvases
 * Units
   
-![image](https://github.com/Dyshakov/DemoGame/assets/91851290/38373e30-f71b-4c92-bc89-c92af0bda2e5)
+![image](https://github.com/user-attachments/assets/c415191d-7112-4b83-a770-b62d50008f85)
+
 
 ## Локация 
-![image](https://github.com/Dyshakov/DemoGame/assets/91851290/fbd7c666-a1dd-4576-b575-566d1d902e37)
-![image](https://github.com/Dyshakov/DemoGame/assets/91851290/73f31916-52a6-4bb1-b563-626265e28b02)
+![image](https://github.com/user-attachments/assets/228053ed-cac7-409f-87ac-d0afe1ddb052)
+
+![image](https://github.com/user-attachments/assets/411bc48c-dc18-49db-a24f-73a48740e450)
+
 
 ## UI
 Интерфейс состоит из:
