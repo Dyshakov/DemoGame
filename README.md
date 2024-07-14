@@ -1,4 +1,5 @@
 # DemoGame
+Скачать игру: https://disk.yandex.ru/d/R2aPjEsQ_X3U1Q
 ## Видео геймплея
 [![Watch the video](http://img.youtube.com/vi/J-FP1Vwp6-M/0.jpg)](https://youtu.be/J-FP1Vwp6-M)
 
