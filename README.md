@@ -60,14 +60,13 @@
 ## Функционал
 
 ### Перезарядка
-
+![reload](https://github.com/user-attachments/assets/af2f59b1-2c87-4118-9f74-16f72deca694)
 
 ### Аптечка
-
-
+![first aid](https://github.com/user-attachments/assets/71defd20-30d7-4f84-8044-41239ba19543)
 
 ### Стрельба
-
+![shooting](https://github.com/user-attachments/assets/22392dd6-4be5-43b4-a4b5-0f33a621af17)
 
 
 
